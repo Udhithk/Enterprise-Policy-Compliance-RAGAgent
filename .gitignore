@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+rag_store/
+latency.log
+*.pyc
